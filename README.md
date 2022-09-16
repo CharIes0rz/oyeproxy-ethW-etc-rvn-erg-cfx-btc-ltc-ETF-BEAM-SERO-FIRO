@@ -3,9 +3,8 @@
 ### 软件说明
 [网盘地址：https://pan.baidu.com/s/1LyWNfeEyFSw6jioCh013zA?pwd=1234 ](https://pan.baidu.com/s/1LyWNfeEyFSw6jioCh013zA?pwd=1234)
 
-Linux版本支持ETH ETC BTC LTC ERG RVN XMR CFX KDA ALPH
+Linux版本支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO
 
-Windows版本暂时支持ETH ETC
 
  ** 小白秒懂使用教程请查看软件压缩包说明文档。** 
 
@@ -20,9 +19,8 @@ Windows版本暂时支持ETH ETC
 ### 更新日志
 2022-09-04 10:58    1.0.5>>>Linux版本更新UI
 
-                            Linux更新十大币种支持ETH ETC BTC LTC ERG RVN XMR CFX KDA ALPH
+                            Linux更新十大币种支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO
 
-                            Windows版本暂时只支持ETH和ETC
 
 2022-06-15 00:00    1.0.1>>>更新UI，增加对ETC支持
 
