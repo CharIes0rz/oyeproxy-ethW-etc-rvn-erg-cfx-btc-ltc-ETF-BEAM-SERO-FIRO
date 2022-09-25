@@ -3,7 +3,7 @@
 ### 软件说明
 [网盘地址：https://pan.baidu.com/s/1LyWNfeEyFSw6jioCh013zA?pwd=1234 ](https://pan.baidu.com/s/1LyWNfeEyFSw6jioCh013zA?pwd=1234)
 
-Linux版本支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO
+Linux版本支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO FLUX KAS
 
 
  ** 小白秒懂使用教程请查看软件压缩包说明文档。** 
