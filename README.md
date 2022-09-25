@@ -19,7 +19,7 @@ Linux版本支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO
 ### 更新日志
 2022-09-04 10:58    1.0.5>>>Linux版本更新UI
 
-                            Linux更新十大币种支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO
+                            Linux更新十大币种支持ETHW ETC BTC LTC ERG RVN XMR CFX KDA ALPH ETF BEAM SERO FIRO FLUX KAS
 
 
 2022-06-15 00:00    1.0.1>>>更新UI，增加对ETC支持
